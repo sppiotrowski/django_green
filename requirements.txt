@@ -1,2 +1,4 @@
 # PIP Requirements file
 # Install using $ pip install -r requirements.txt
+Django==1.4.3
+gunicorn
